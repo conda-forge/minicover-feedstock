@@ -1,5 +1,5 @@
 context:
-  version: "3.8.1"
+  version: "3.9.0"
 
 package:
   name: minicover
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/lucaslorentz/minicover/archive/v${{ version }}.tar.gz
-  sha256: 48ede1f32cc08c9b946fd1a28aba439cd74f31c76248e816544efe670a2efdea
+  sha256: 6051e39bb20b235eb3487d2734ea236c65eb3851b80785851c17a8b21f26ad1a
 
 build:
   number: 0
